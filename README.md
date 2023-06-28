@@ -1,5 +1,4 @@
 
-atividade feita para a cadeira de mobile da faculdade de ads, utilizando o react native e consumindo uma api
 
 ## Como executar
 1. instale o Expo CLI em sua maquina `yarn add -g expo-cli`
