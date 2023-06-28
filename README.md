@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="video.gif" height="550px" alt="Video"/>
+</div>
 
 
 ## Como executar
